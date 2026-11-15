@@ -1,9 +1,9 @@
 {
     "enabled": true,
-    "latest_version": "",
-    "latest_version_code": 0,
+    "latest_version": "v1.0.2",
+    "latest_version_code": 3,
     "minimum_version_code": 0,
     "force_update": false,
-    "release_notes": "",
-    "release_url": ""
+    "release_notes": "Verbesserte Update-Prüfung mit verständlichen Benachrichtigungen.",
+    "release_url": "https://github.com/Korra050401/worldwide-music-radio/releases/tag/v1.0.2"
 }
