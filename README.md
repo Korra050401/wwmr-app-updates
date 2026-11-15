@@ -1,2 +1,6 @@
-# wwmr-app-updates
-WWMR APP UPDATE INFOS
+# WWMR App Updates
+
+Öffentliche Update-Informationen
+für WorldWideMusicRadio.
+
+Keine Zugangsdaten oder privaten Daten speichern.
