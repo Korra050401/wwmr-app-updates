@@ -1,9 +1,11 @@
 {
-    "enabled": true,
-    "latest_version": "v1.0.4",
-    "latest_version_code": 5,
-    "minimum_version_code": 0,
-    "force_update": false,
-    "release_notes": "Jetzt mit integrierter Update Funktion",
-    "release_url": "https://github.com/Korra050401/worldwide-music-radio/releases/tag/v1.0.4"
+  "enabled": true,
+  "latest_version": "v1.0.7",
+  "latest_version_code": 8,
+  "minimum_version_code": 0,
+  "force_update": false,
+  "release_notes": "Automatisches WWMR-App-Update",
+  "release_url": "https://github.com/Korra050401/wwmr-app-updates/releases/tag/v1.0.7",
+  "apk_url": "https://github.com/Korra050401/wwmr-app-updates/releases/download/v1.0.7/app-release.apk",
+  "sha256": "1b1d8723665b49faae8e6523cef96dbe8135a5ce0b2e8d0fa471e318b536d06d"
 }
